@@ -1,4 +1,4 @@
-<a href="http://yerkoorellana.github.io/YerkoOrellanaPortafolio.github.io" target="_blank">Website: https://yerkoorellana.github.io/YerkoOrellanaPortafolio.github.io<a/>
+Website: https://yerkoorellana.github.io/YerkoOrellanaPortafolio.github.io
 
 Fork a repos: 
 
